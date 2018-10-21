@@ -1,0 +1,8 @@
+body {
+    background-image: url(just-waves.png); 
+}
+.header {
+    height: 30px;
+    width: 960px;
+    background-color: blue;
+}
